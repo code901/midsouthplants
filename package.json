@@ -1,0 +1,25 @@
+{
+  "name": "midsouthplants",
+  "version": "1.0.0",
+  "description": "MidSouth Plants site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code901/midsouthplants.git"
+  },
+  "author": "Code 901 Software",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/code901/midsouthplants/issues"
+  },
+  "homepage": "https://github.com/code901/midsouthplants#readme",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "express": "^4.14.1",
+    "express-less": "^0.1.0",
+    "pug": "^2.0.0-beta11"
+  }
+}
